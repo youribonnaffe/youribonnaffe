@@ -6,4 +6,4 @@ I also participated in conferences to talk about REST tooling: https://github.co
 You can find me on:
  - LinkedIn: https://www.linkedin.com/in/youribonnaffe/
  - Twitter: https://twitter.com/youribm
- - My Github account for work at Symphony and Finos: https://github.com/symphony-youri
+ - My Github account for my previous work at Symphony and Finos: https://github.com/symphony-youri
